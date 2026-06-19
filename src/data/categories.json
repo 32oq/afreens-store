@@ -1,0 +1,6 @@
+[
+  { "id": "cat-01", "name": "Fine Art", "slug": "fine-art", "image": "/images/artwork-01.svg" },
+  { "id": "cat-02", "name": "Stationery", "slug": "stationery", "image": "/images/artwork-03.svg" },
+  { "id": "cat-03", "name": "Arabic Calligraphy", "slug": "arabic-calligraphy", "image": "/images/artwork-04.svg" },
+  { "id": "cat-04", "name": "Branding", "slug": "branding", "image": "/images/artwork-05.svg" }
+]

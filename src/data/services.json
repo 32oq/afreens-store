@@ -1,0 +1,50 @@
+[
+  {
+    "id": "service-01",
+    "title": "Custom Calligraphy",
+    "description": "Bespoke hand-lettered pieces for events, artworks, and personalized gifts.",
+    "image": "/images/service-01.svg",
+    "price": "$320+",
+    "features": ["Custom lettering", "Luxury finishes", "Gift-ready presentation"]
+  },
+  {
+    "id": "service-02",
+    "title": "Wedding Invitations",
+    "description": "Elegant invitation suites with matching envelopes, RSVP cards, and signage.",
+    "image": "/images/service-02.svg",
+    "price": "$480+",
+    "features": ["Invitation suites", "Envelope addressing", "On-site signage"]
+  },
+  {
+    "id": "service-03",
+    "title": "Arabic Calligraphy",
+    "description": "Contemporary Arabic compositions for art, gifts, and bespoke décor.",
+    "image": "/images/service-03.svg",
+    "price": "$360+",
+    "features": ["Custom phrases", "Decorative compositions", "Fine art prints"]
+  },
+  {
+    "id": "service-04",
+    "title": "Logo Design",
+    "description": "Signature monograms and logo systems for luxury brands and artisans.",
+    "image": "/images/service-04.svg",
+    "price": "$540+",
+    "features": ["Monogram design", "Brand mark", "Color palette"]
+  },
+  {
+    "id": "service-05",
+    "title": "Wall Art",
+    "description": "Statement wall art pieces designed to elevate interiors with script and texture.",
+    "image": "/images/service-05.svg",
+    "price": "$280+",
+    "features": ["Gallery-ready art", "Custom sizing", "Framing guidance"]
+  },
+  {
+    "id": "service-06",
+    "title": "Gift Items",
+    "description": "Giftable calligraphy items including thank-you notes, bookmarks, and keepsakes.",
+    "image": "/images/service-06.svg",
+    "price": "$80+",
+    "features": ["Personalized notes", "Luxury packaging", "Ready to gift"]
+  }
+]

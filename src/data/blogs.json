@@ -1,0 +1,52 @@
+[
+  {
+    "id": "blog-01",
+    "title": "How to Choose the Perfect Wedding Calligraphy Style",
+    "slug": "choose-perfect-wedding-calligraphy",
+    "content": "Discover how to select a calligraphy style that complements your wedding theme, venue, and stationary palette with ease.",
+    "image": "/images/blog-01.svg",
+    "tags": ["wedding", "style", "calligraphy"],
+    "category": "Inspiration",
+    "date": "2026-06-05"
+  },
+  {
+    "id": "blog-02",
+    "title": "The Art of Modern Arabic Lettering",
+    "slug": "art-modern-arabic-lettering",
+    "content": "Learn how contemporary Arabic lettering blends tradition and luxury for home decor and personal gifts.",
+    "image": "/images/blog-02.svg",
+    "tags": ["arabic", "art", "design"],
+    "category": "Culture",
+    "date": "2026-05-22"
+  },
+  {
+    "id": "blog-03",
+    "title": "Luxury Packaging Ideas for Handcrafted Gifts",
+    "slug": "luxury-packaging-handcrafted-gifts",
+    "content": "Elevate your gifting with premium materials, textured paper, and expressive finishing touches.",
+    "image": "/images/blog-03.svg",
+    "tags": ["gifts", "packaging", "luxury"],
+    "category": "Lifestyle",
+    "date": "2026-05-10"
+  },
+  {
+    "id": "blog-04",
+    "title": "Why Bespoke Calligraphy Still Matters",
+    "slug": "why-bespoke-calligraphy-matters",
+    "content": "Explore the emotional depth and personalization that only handmade lettering can deliver.",
+    "image": "/images/blog-04.svg",
+    "tags": ["bespoke", "craftsmanship", "meaning"],
+    "category": "Craftsmanship",
+    "date": "2026-04-28"
+  },
+  {
+    "id": "blog-05",
+    "title": "Crafting a Signature Monogram for Your Brand",
+    "slug": "crafting-signature-monogram",
+    "content": "A step-by-step guide to creating a monogram that communicates elegance and identity.",
+    "image": "/images/blog-05.svg",
+    "tags": ["brand", "logo", "monogram"],
+    "category": "Branding",
+    "date": "2026-04-15"
+  }
+]

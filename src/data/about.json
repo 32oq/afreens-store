@@ -1,0 +1,16 @@
+{
+  "biography": "Afreen is a master calligrapher and fine art letterer specializing in contemporary and traditional calligraphy. With a passion for precision and aesthetic excellence, Afreen creates stunning hand-drawn artworks, custom invitations, and bespoke lettering designs for discerning clients .",
+  "mission": "To preserve the art of hand-drawn calligraphy while infusing modern creativity. Every piece is crafted with intention, celebrating the beauty of the written word and bringing personalized elegance to meaningful moments.",
+  "timeline": [
+    { "year": "2018", "title": "Artistic Journey Begins", "description": "Started exploring calligraphy as a personal art form, developing a unique signature style blending traditional techniques with contemporary aesthetics." },
+    { "year": "2021", "title": "Professional Studio Launch", "description": "Opened commission-based studio for custom calligraphy artworks, invitations, and personalized lettering projects." },
+    { "year": "2024", "title": "International Recognition", "description": "Gained global clientele through social media presence, showcasing fine art calligraphy pieces and custom design work." }
+  ],
+  "achievements": [
+    "Creator of distinctive calligraphy style recognizable across social platforms.",
+    "Completed 500+ custom commission projects for clients worldwide.",
+    "Specialized expertise in both Western and traditional calligraphy forms."
+  ],
+  "skills": ["Modern calligraphy", "Contemporary lettering", "Custom commissions", "Fine art pieces", "Personalized design", "Digital integration"],
+  "specialties": ["Custom artworks", "Luxury invitations", "Fine lettering", "Commission projects", "Portfolio design"]
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "art-01",
+    "title": "Moonlit Serenade",
+    "slug": "moonlit-serenade",
+    "description": "Hand-lettered poem in soft gold ink with a subtle brush of moonlit texture.",
+    "image": "/images/artwork-01.svg",
+    "category": "Fine Art",
+    "tags": ["moonlight", "gold", "poetry"],
+    "year": 2025,
+    "materials": ["Ink", "Gold leaf", "Cotton paper"],
+    "featured": true
+  },
+  {
+    "id": "art-02",
+    "title": "Botanical Ode",
+    "slug": "botanical-ode",
+    "description": "A floral calligraphy piece balancing organic curves with elegant script.",
+    "image": "/images/artwork-02.svg",
+    "category": "Botanical",
+    "tags": ["floral", "nature", "modern"],
+    "year": 2024,
+    "materials": ["Brush pen", "Watercolor paper"],
+    "featured": true
+  },
+  {
+    "id": "art-03",
+    "title": "Golden Invitation",
+    "slug": "golden-invitation",
+    "description": "A luxurious invitation design for weddings, embossed with refined lettering.",
+    "image": "/images/artwork-03.svg",
+    "category": "Stationery",
+    "tags": ["invitation", "wedding", "luxury"],
+    "year": 2025,
+    "materials": ["Gold foil", "Pearl paper"],
+    "featured": false
+  },
+  {
+    "id": "art-04",
+    "title": "Arabesque Lines",
+    "slug": "arabesque-lines",
+    "description": "Deeply textured Arabic calligraphy woven into modern ornamental form.",
+    "image": "/images/artwork-04.svg",
+    "category": "Arabic Calligraphy",
+    "tags": ["arabic", "ornamental", "composition"],
+    "year": 2023,
+    "materials": ["Ink", "Handmade paper"],
+    "featured": false
+  },
+  {
+    "id": "art-05",
+    "title": "Luxe Monogram",
+    "slug": "luxe-monogram",
+    "description": "Custom monogram design with minimalist luxury and tailored flourishes.",
+    "image": "/images/artwork-05.svg",
+    "category": "Branding",
+    "tags": ["logo", "monogram", "brand"],
+    "year": 2024,
+    "materials": ["Gold ink", "Velvet cardstock"],
+    "featured": true
+  },
+  {
+    "id": "art-06",
+    "title": "Whispered Wishes",
+    "slug": "whispered-wishes",
+    "description": "Soft, flowing text that captures a heartfelt sentiment in a dreamy palette.",
+    "image": "/images/artwork-06.svg",
+    "category": "Lifestyle",
+    "tags": ["sentiment", "soft", "dream"],
+    "year": 2025,
+    "materials": ["Ink", "Vellum"],
+    "featured": false
+  }
+]

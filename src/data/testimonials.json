@@ -1,0 +1,23 @@
+[
+  {
+    "id": "test-01",
+    "name": "Celeste Hart",
+    "image": "/images/testimonial-01.svg",
+    "rating": 5,
+    "review": "Afreen transformed our wedding invitation into a timeless piece of art. The detail and luxury finish were unforgettable."
+  },
+  {
+    "id": "test-02",
+    "name": "Maya Collins",
+    "image": "/images/testimonial-02.svg",
+    "rating": 5,
+    "review": "The custom logo design captured our brand perfectly. Every client comment has been full of admiration."
+  },
+  {
+    "id": "test-03",
+    "name": "Lina Rahman",
+    "image": "/images/testimonial-03.svg",
+    "rating": 4,
+    "review": "Beautiful Arabic calligraphy delivered with grace and patience. A luxurious experience from concept to final package."
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "name": "Afreen Calligraphy",
+  "logo": "✨ Afreen",
+  "tagline": "Fine Art Calligraphy & Bespoke Lettering",
+  "description": "Exquisite hand-crafted calligraphy artworks and custom lettering designs. Specializing in luxury invitations, fine art pieces, and personalized letterpress experiences.",
+  "phone": "+91 300 1234567",
+  "email": "info@afreen.calligraphy@gmail.com",
+  "address": "Kashmir",
+  "social": {
+    "instagram": "https://instagram.com/calli_graphy_by_afreeeeeen",
+    "pinterest": "https://pinterest.com/afreeen.calligraphy",
+    "linkedin": "https://linkedin.com/in/afreeen-calligraphy",
+    "facebook": "https://facebook.com/afreeen.calligraphy"
+  },
+  "whatsapp": {
+    "number": "923001234567",
+    "defaultMessage": "Hello Afreeen! I'm interested in your custom calligraphy services."
+  },
+  "keywords": ["calligraphy", "custom lettering", "fine art calligraphy", "luxury invitations", "hand-drawn", "urdu calligraphy", "portfolio"],
+  "copyright": "© 2026 Afreeen Calligraphy. All rights reserved.",
+  "navigation": [
+    { "label": "Home", "href": "/" },
+    { "label": "Gallery", "href": "/gallery" },
+    { "label": "Services", "href": "/services" },
+    { "label": "Blog", "href": "/blog" },
+    { "label": "About", "href": "/about" },
+    { "label": "Contact", "href": "/contact" }
+  ]
+}

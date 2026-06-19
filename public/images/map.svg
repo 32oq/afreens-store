@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 640" width="1024" height="640">
+  <rect width="1024" height="640" fill="#f2e9dd" />
+  <path d="M120 520C240 460 320 520 420 490C520 460 620 520 760 470C860 440 920 520 980 500" fill="none" stroke="#d8b59b" stroke-width="28" stroke-linecap="round" />
+  <circle cx="300" cy="280" r="110" fill="#f5ede4" />
+  <circle cx="720" cy="220" r="80" fill="#f9f3eb" />
+  <path d="M300 210C320 160 360 140 420 160C470 180 520 170 560 220" fill="none" stroke="#c7a686" stroke-width="22" stroke-linecap="round" />
+  <rect x="60" y="420" width="320" height="160" rx="36" fill="#e7d5c2" />
+  <text x="100" y="470" font-size="40" fill="#8a6d51" font-family="Arial, sans-serif">Studio</text>
+</svg>
